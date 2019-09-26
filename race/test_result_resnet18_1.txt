@@ -1,0 +1,13 @@
+---------  correct: 442 -----------
+---------  total: 462 -----------
+---------  accuracy: 0.9567 -----------
+sensitivity: 0.994595
+specificity:0.804348
+positive likelihood value: 5.083483
+negative likelihood value:0.006720
+positive predictive value: 0.953368
+negative predictive value:0.973684
+TP: 368.000000
+TN: 74.000000
+FP: 18.000000
+FN: 2.000000
